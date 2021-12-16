@@ -1,14 +1,12 @@
-# Coder-Paint
+# Coder Paint 🎨
 
 ## Overview 👀
 
 ### Desktop 💻
-
-
-
+![](/readme/coderpaint-d.png)
 
 ### Mobile 📱
-
+![](/readme/coderpaint-m.png)
 
 
 ### Build with 🔨
